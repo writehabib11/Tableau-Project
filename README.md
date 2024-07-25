@@ -1,0 +1,1 @@
+Developed an interactive dashboard for Dental Pharma to visually assess project performance across IT and Marketing sectors in four global regions, providing critical insights on cost, duration, and deliverables to managers at various levels for strategic decision-making.
